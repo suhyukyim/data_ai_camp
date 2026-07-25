@@ -1,0 +1,23 @@
+# Datasets & model weights (too large for git)
+*.zip
+*.pt
+*.pth
+*.onnx
+dataset/
+datasets/
+data/
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
