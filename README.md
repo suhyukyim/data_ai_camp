@@ -2,6 +2,10 @@
 
 코멘토 데이터 AI 부트캠프 실습 기록입니다. 자동차 객체탐지(YOLO) 프로젝트 코드와 주차별 학습 정리를 담고 있습니다.
 
+## 수료증
+
+![수료증](assets/certificate.png)
+
 ## 구조
 
 ```
@@ -12,6 +16,8 @@ data_ai_camp/
 ├── notes/
 │   ├── week1.md ~ week5.md          # 주차별 학습 정리
 │   └── model_research.md            # 모델 선정 리서치 (YOLO26 선택 과정)
+├── assets/
+│   └── certificate.png              # 수료증 이미지 (README 표시용)
 └── 4주차_전체과정_정리.pdf           # 최종 발표본
 ```
 
