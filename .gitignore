@@ -21,3 +21,17 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Non-portfolio working files (feedback decks, drafts, screenshots, temp)
+*.pdf
+!4주차_전체과정_정리.pdf
+*.pptx
+~$*
+다운로드*.png
+화면 캡처*.png
+대본*.md
+대본*.txt
+정리본.md
+cctv뷰/
+공유자료/
+코드 정리/
